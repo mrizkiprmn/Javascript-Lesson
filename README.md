@@ -1,5 +1,5 @@
 ## Javascript Part 1
-### Objective
+### Objective :
 - Data Types
 - Variables
 - Condition
