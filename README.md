@@ -1,4 +1,11 @@
-## Javascript Part 1
+## Algoritma & Flowchart
+### Objective :
+###### - Algoritma & Flowchart reverse words
+###### - Algoritma & Flowchart palindrome
+
+-------------
+
+## Javascript Part 1 (Introduction Javascript)
 ### Objective :
 ###### - Data Types
 ###### - Variables
